@@ -20,7 +20,7 @@ def gen_html_openai(*, article_text: str) -> str:
         " Wstaw znaczniki <img src='image_placeholder.jpg' alt='Opis obrazu'/> w miejscach, w których Twoim zdaniem"
         " powinien zostać umieszczony obraz. Dodaj podpis do obrazu za pomocą znacznika <figcaption>."
         " Nie dodawaj CSS и JavaScript. Umieść tylko код HTML помиędzy <body> и </body>."
-        " но без самих znaczników <body>."
+        " ale bez samych znaczników <body>."
         "\n\nArtykuł:\n" + article_text
     )
 
