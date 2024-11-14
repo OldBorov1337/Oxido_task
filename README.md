@@ -7,13 +7,6 @@ który określa biblioteki, aby je zainstalować, użyj polecenia:
 pip install -r requirements.txt
 
 
-Stworzyłem również wewnętrzne srodowisko o nazwie venv, aby je aktywować, użyj polecenia 
-(dla Windows)
-venv\Scripts\activate
-
-(dla macOS/Linux)
-źródło venv/bin/activate
-
 Aby aktywować program, należy użyć polecenia:
 python main.py
 
