@@ -6,6 +6,7 @@ który określa biblioteki, aby je zainstalować, użyj polecenia:
 
 pip install -r requirements.txt
 
+Zanim zaczniesz, musisz wstawić klucz API do .env (usunąłem go ze względów bezpieczeństwa)
 
 Aby aktywować program, należy użyć polecenia:
 python main.py
